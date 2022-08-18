@@ -3,4 +3,4 @@ It is basically a B2B lifestyle website. With the use of this website user can g
 Latter oon i will bring more and more graphic designers on this website to provide vast choices. This website work like a bridge between user and graphic designer.
 In future enhansment i will plan that i can give all the IT services in this one website. so that user can save much time and user can find every services in this one website like UI/UX design, Website developement, Application developement etc.
 
-::Here is the website's URL which i made with the help of Microsoft Azure Static Web : https://gray-water-03ee87010.1.azurestaticapps.net::
+::Here is the website's URL which i made with the help of Microsoft Azure Static Web : https://white-moss-0be64ec10.1.azurestaticapps.net::
